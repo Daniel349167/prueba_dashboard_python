@@ -41,7 +41,8 @@ Este proyecto es un pequeño dashboard desarrollado en Python que realiza una co
        ciudad VARCHAR(100),
        salario DECIMAL(10,2)
      );
-
+     ```
+     ```
     INSERT INTO empleados (nombre, edad, ciudad, salario) VALUES
     ('Juan Pérez', 30, 'Ciudad de México', 50000.00),
     ('María Gómez', 25, 'Guadalajara', 45000.00),
