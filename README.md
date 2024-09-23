@@ -80,7 +80,9 @@ Este proyecto es un pequeño dashboard desarrollado en Python que realiza una co
 ## imagenes
 
 ![image](https://github.com/user-attachments/assets/2a353e7a-9eab-4cda-8277-35c53b345ea1)
+
 ![image](https://github.com/user-attachments/assets/6e4c01b2-4604-4e28-8ad6-14464c045695)
+
 ![image](https://github.com/user-attachments/assets/dda13b2b-0d74-4c3b-a080-cc77d3161663)
 
 
