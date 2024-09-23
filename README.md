@@ -43,14 +43,14 @@ Este proyecto es un pequeño dashboard desarrollado en Python que realiza una co
      );
      
      INSERT INTO empleados (nombre, edad, ciudad, salario) VALUES
-       ('Juan Pérez', 30, 'Ciudad de México', 50000.00),
+       ('Juan Pérez', 31, 'Ciudad de México', 50000.00),
        ('María Gómez', 25, 'Guadalajara', 45000.00),
        ('Carlos Sánchez', 35, 'Monterrey', 55000.00),
        ('Laura Martínez', 28, 'Puebla', 48000.00),
        ('José Hernández', 40, 'Ciudad de México', 60000.00),
-       ('Ana López', 30, 'Guadalajara', 47000.00),
-       ('Luis García', 28, 'Puebla', 49000.00),
-       ('Sofía Ramírez', 25, 'Monterrey', 46000.00),
+       ('Ana López', 31, 'Guadalajara', 47000.00),
+       ('Luis García', 31, 'Puebla', 49000.00),
+       ('Sofía Ramírez', 31, 'Monterrey', 46000.00),
        ('Miguel Torres', 35, 'Ciudad de México', 52000.00),
        ('Elena Cruz', 40, 'Puebla', 55000.00);
      ```
@@ -79,7 +79,7 @@ Este proyecto es un pequeño dashboard desarrollado en Python que realiza una co
 
 ## imagenes
 
-![image](https://github.com/user-attachments/assets/2a353e7a-9eab-4cda-8277-35c53b345ea1)
+![image](https://github.com/user-attachments/assets/0c39037e-abee-4be9-b504-1228fbe8089b)
 
 ![image](https://github.com/user-attachments/assets/6e4c01b2-4604-4e28-8ad6-14464c045695)
 
