@@ -41,8 +41,7 @@ Este proyecto es un pequeño dashboard desarrollado en Python que realiza una co
        ciudad VARCHAR(100),
        salario DECIMAL(10,2)
      );
-     ```
-     ```
+     
     INSERT INTO empleados (nombre, edad, ciudad, salario) VALUES
     ('Juan Pérez', 30, 'Ciudad de México', 50000.00),
     ('María Gómez', 25, 'Guadalajara', 45000.00),
@@ -54,7 +53,6 @@ Este proyecto es un pequeño dashboard desarrollado en Python que realiza una co
     ('Sofía Ramírez', 25, 'Monterrey', 46000.00),
     ('Miguel Torres', 35, 'Ciudad de México', 52000.00),
     ('Elena Cruz', 40, 'Puebla', 55000.00);
-
      ```
 
 5. Configura la conexión a MySQL en el archivo Python (`app.py`), cambiando los parámetros de conexión como `host`, `user`, y `password` según tu configuración de MySQL.
