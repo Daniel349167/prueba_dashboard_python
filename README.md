@@ -16,7 +16,7 @@ Este proyecto es un pequeño dashboard desarrollado en Python que realiza una co
 2. Crea un entorno virtual (opcional, pero recomendado):
 
    ```bash
-   python3 -m venv venv
+   python -m venv venv
    source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
    ```
 
